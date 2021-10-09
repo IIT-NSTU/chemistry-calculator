@@ -19,7 +19,7 @@ Its a desktop based application which  provides facility for solving  equations 
 ```bash
 Equation Balancer
 ```
-![App Screenshot](https://github.com/IIT-NSTU/chemistry-calculator/raw/main/App%20Screenshots/Concentration.PNG)
+![App Screenshot](https://raw.githubusercontent.com/IIT-NSTU/chemistry-calculator/main/App%20Screenshots/Equation%20Balancer.PNG)
 
 ```bash
 Electron configuration
